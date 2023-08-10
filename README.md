@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-![GitHub followers](https://img.shields.io/github/followers/runjtu?logo=Github) ![GitHub User's stars](https://img.shields.io/github/stars/runjtu?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
+![GitHub followers](https://img.shields.io/github/followers/runjtu?logo=Github) ![GitHub User's stars](https://img.shields.io/github/stars/runjtu?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github) [![Mail](https://img.shields.io/badge/-rh.zstayhumble@gmail.com-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rh.zstayhumble@gmail.com)
 
-I'm Runheng Zuo, a graduate student at SJTU. [![Mail](https://img.shields.io/badge/-rh.zstayhumble@gmail.com-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rh.zstayhumble@gmail.com)
+I'm Runheng Zuo, a graduate student at SJTU. 
 
 <a href="https://github.com/runjtu"><img align='right' src="https://github-readme-stats.vercel.app/api?username=runjtu&theme=vue-dark&count_private=true&show_icons=true"></a>
 
