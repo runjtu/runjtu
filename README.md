@@ -4,6 +4,8 @@
 
 I'm Runheng Zuo, a graduate student at SJTU.
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=runjtu&theme=vue&count_private=true&show_icons=true)](https://github.com/runjtu)
+
 ## 🔭 Interests: 
 - LIO, NeRF, Semantic SLAM, V2X.
 
@@ -13,13 +15,10 @@ I'm Runheng Zuo, a graduate student at SJTU.
 - Exchange Student, Mechanical Engineering, National Taiwan University (2021.07 ~ 2022.01)
 - Exchange Student, Computer Science, National University of Singapore (2022.05 ~ 2022.08)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=runjtu&theme=vue&count_private=true&show_icons=true)](https://github.com/runjtu)
-
 ## 🛠️ Programming skills
 * C++
 * Python3
 * ROS/ROS2
 * Pytorch/Tensorflow2
-
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=runjtu&theme=vue&layout=compact)](https://github.com/runjtu)
