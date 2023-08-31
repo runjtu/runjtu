@@ -7,10 +7,10 @@
 
 I'm Runheng Zuo, a graduate student at SJTU. 
 
-## 🔭 Interests: 
+##  Interests: 
 - LIO, NeRF, Semantic SLAM, V2X.
 
-## 🎓 Experience:
+##  Education:
 - Master, Mechanical Engineering, Automated Driving & Vehicle Road Collaboration Lab (advrc), Shanghai Jiao Tong University (2022.12 ~ 2026.03)
 - Bachelor, Mechanical Engineering (3D printing elite class), Xi'an Jiaotong University (2019.08 ~ 2023.07)
 - Exchange Student, Mechanical Engineering, National Taiwan University (2021.07 ~ 2022.01)
@@ -19,7 +19,7 @@ I'm Runheng Zuo, a graduate student at SJTU.
 <a href="https://github.com/runjtu"><img align='right' src="https://readme-stats.clckblog.space/api/top-langs/?username=runjtu&theme=vue&layout=compact"></a>
 
 
-## 🛠️ Programming skills
+##  Programming skills
 * C++
 * Python3
 * ROS/ROS2
