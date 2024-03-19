@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/runjtu?logo=Github) ![GitHub User's stars](https://img.shields.io/github/stars/runjtu?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github) [![Mail](https://img.shields.io/badge/-rh.zstayhumble@gmail.com-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rh.zstayhumble@gmail.com)
 
 
-I'm Runheng Zuo, a graduate student at SJTU. 
+I'm Runheng Zuo, pursuing master degree at SJTU. 
 
 ##  🎨Interests🎨 
 - LIO, NeRF, Semantic SLAM, V2X.
@@ -24,6 +24,6 @@ I'm Runheng Zuo, a graduate student at SJTU.
 * ROS/ROS2
 * Pytorch/Tensorflow2
 
-<a href="https://github.com/runjtu"><img align='right' src="https://readme-stats.clckblog.space/api?username=runjtu&theme=vue-dark&count_private=true&show_icons=true"></a>
+## <a href="https://github.com/runjtu"><img align='right' src="https://readme-stats.clckblog.space/api?username=runjtu&theme=vue-dark&count_private=true&show_icons=true"></a>
 
-<a href="https://github.com/runjtu"><img align='right' src="https://readme-stats.clckblog.space/api/top-langs/?username=runjtu&theme=vue&layout=compact"></a>
+## <a href="https://github.com/runjtu"><img align='right' src="https://readme-stats.clckblog.space/api/top-langs/?username=runjtu&theme=vue&layout=compact"></a>
