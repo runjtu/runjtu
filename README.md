@@ -24,10 +24,8 @@ I'm Runheng Zuo, pursuing master degree at SJTU.
 * ROS/ROS2
 * Pytorch/Tensorflow2
 
-## 
 
-<a href="https://github.com/runjtu"><img align='right' src="https://readme-stats.clckblog.space/api?username=runjtu&theme=vue-dark&count_private=true&show_icons=true"></a>
+<a href="https://github.com/runjtu"><img align='center' src="https://readme-stats.clckblog.space/api?username=runjtu&theme=vue-dark&count_private=true&show_icons=true"></a>
 
-## 
 
-<a href="https://github.com/runjtu"><img align='right' src="https://readme-stats.clckblog.space/api/top-langs/?username=runjtu&theme=vue&layout=compact"></a>
+<a href="https://github.com/runjtu"><img align='center' src="https://readme-stats.clckblog.space/api/top-langs/?username=runjtu&theme=vue&layout=compact"></a>
