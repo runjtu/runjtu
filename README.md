@@ -8,7 +8,7 @@
 I'm Runheng Zuo, pursuing master degree at SJTU. 
 
 ##  🎨Interests🎨 
-- LIO, NeRF, Semantic SLAM, V2X.
+- Lightweight Map Based Localization, 3DGS, Semantic SLAM, V2X.
 
 ##  🐛Education🐛
 - Master, Mechanical Engineering, Automated Driving & Vehicle Road Collaboration Lab (advrc), Shanghai Jiao Tong University (2022.12 ~ 2026.03expected)
