@@ -1,6 +1,6 @@
 ### Hi, glad to see you 
 
-I'm Runheng Zuo, pursuing master degree at SJTU. 
+- I'm Runheng Zuo, pursuing master degree at SJTU. 
 
 ##  Interests 
 - Lightweight Map Based Localization, 3DGS, Semantic Scene Understanding, V2X.
