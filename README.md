@@ -11,4 +11,6 @@
 - Exchange Student, Mechanical Engineering, National Taiwan University (2021.07 ~ 2022.01)
 - Exchange Student, Computer Science, National University of Singapore (2022.05 ~ 2022.08)
 
+Here's a summary of my coding language, yet private repos could not be count.
+
 > <a href="https://github.com/runjtu"><img align='center' src="https://readme-stats.clckblog.space/api/top-langs/?username=runjtu&theme=vue&layout=compact"></a>
