@@ -1,9 +1,9 @@
 ### Hi, glad to see you 
 
-- I'm Runheng Zuo, pursuing master's degree at SJTU. 
+- I'm Runheng Zuo, an incoming doctoral student at Tsinghua University. 
 
 ##  Research Interests 
-- General Place Recognition, Semantic Scene Understanding, Embodied Robot Locomotion.
+- Spatial Intelligence, Embedded Intelligence, VLAs.
 
 ##  Education Background
 - Doctor, Data Science and Information Technology, [SIGS AIoT Lab](https://ieeexplore.ieee.org/author/37279339900), Tsinghua University (2026.09 ~ 2030.06 expected)
